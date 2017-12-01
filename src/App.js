@@ -5,8 +5,7 @@ import axios from 'axios'
 class App extends Component {
   state = {
     messages: [
-      // {id: 0, username: "Bob", message: "Hello"},
-      // {id: 1, username: "JOE", message: "BYE"}
+
     ]
   }
   componentWillMount() {
